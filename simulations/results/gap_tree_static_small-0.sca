@@ -1,0 +1,40 @@
+version 2
+run gap_tree_static_small-0-20111211-16:18:38-31992
+attr configname gap_tree_static_small
+attr datetime 20111211-16:18:38
+attr experiment gap_tree_static_small
+attr inifile /home/kristjan/omnet-working/drgsim-working/DRGSimLib/simulations/gap_experiments.ini
+attr iterationvars $0=6
+attr iterationvars2 "$0=6, $repetition=0"
+attr measurement $0=6
+attr network gapscenario
+attr processid 31992
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+scalar gapscenario.factory 	totalCreated 	6
+scalar gapscenario.factory 	totalDestroyed 	0
+scalar gapscenario.root.nic 	transmittedCount 	78
+scalar gapscenario.root.nic 	errorDropCount 	0
+scalar gapscenario.root.nic 	unreachableDropCount 	0
+scalar gapscenario.node0000.nic 	transmittedCount 	116
+scalar gapscenario.node0000.nic 	errorDropCount 	0
+scalar gapscenario.node0000.nic 	unreachableDropCount 	1
+scalar gapscenario.node0001.nic 	transmittedCount 	117
+scalar gapscenario.node0001.nic 	errorDropCount 	0
+scalar gapscenario.node0001.nic 	unreachableDropCount 	1
+scalar gapscenario.node0002.nic 	transmittedCount 	42
+scalar gapscenario.node0002.nic 	errorDropCount 	0
+scalar gapscenario.node0002.nic 	unreachableDropCount 	1
+scalar gapscenario.node0003.nic 	transmittedCount 	51
+scalar gapscenario.node0003.nic 	errorDropCount 	0
+scalar gapscenario.node0003.nic 	unreachableDropCount 	1
+scalar gapscenario.node0004.nic 	transmittedCount 	49
+scalar gapscenario.node0004.nic 	errorDropCount 	0
+scalar gapscenario.node0004.nic 	unreachableDropCount 	1
+scalar gapscenario.node0005.nic 	transmittedCount 	45
+scalar gapscenario.node0005.nic 	errorDropCount 	0
+scalar gapscenario.node0005.nic 	unreachableDropCount 	1

@@ -1,0 +1,3 @@
+package drgsimlib;
+
+@license(GPL);
