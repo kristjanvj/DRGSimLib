@@ -1,0 +1,5 @@
+OMNeT++ DRGSimLib -- Dynamic Random Graph Simulation Library for OMNeT++
+========================================================================
+
+The library contains a number of components which enable simulations of
+scenarios based on dynamic random graphs in OMNeT++.
